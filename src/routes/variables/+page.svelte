@@ -16,5 +16,11 @@
 <style>
     *, a {
         text-align: center;
+        user-select: none;
+    }
+    input {
+        width: 40px;
+        font-size: 20px;
+        border: none;
     }
 </style>
