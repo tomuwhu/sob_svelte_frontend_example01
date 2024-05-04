@@ -3,7 +3,7 @@
     var x = 10;
     $: x2 = x*x
 </script>
-<h1>SOB SvelteKit Példaprogramok v3</h1>
+<h1>SOB SvelteKit Példaprogramok</h1>
 <h3>1. oldal: Változók, Input, Output</h3>
 <div>
 <a href="https://tomuwhu.github.io/sob_svelte_frontend_example01/">Vissza a menühöz</a>
