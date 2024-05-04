@@ -1,2 +1,11 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>SOB SvelteKit Példaprogramok</h1>
+<h3>0. oldal: Routing</h3>
+<h5>További példák</h5>
+<ul>
+    <li><a href="/variables">1. oldal: változó beolvasása és megjelenítése (variables)</a></li>
+</ul>
+<style>
+    h1 {
+        text-align: center;
+    }
+</style>
