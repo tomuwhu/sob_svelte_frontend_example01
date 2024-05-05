@@ -19,7 +19,7 @@
         user-select: none;
     }
     input {
-        width: 40px;
+        width: 80px;
         font-size: 20px;
         border: none;
     }
