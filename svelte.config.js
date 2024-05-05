@@ -9,7 +9,6 @@ const config = {
 		adapter: adapter({
 			pages: 'docs',
 			assets: 'docs',
-			fallback: '404.html',
 			precompress: false,
 			strict: true
 		})
