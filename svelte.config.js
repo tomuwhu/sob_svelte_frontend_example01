@@ -4,7 +4,7 @@ import adapter from '@sveltejs/adapter-static';
 const config = {
 	kit: {
 		paths: {
-			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
+			base: process.argv.includes('dev') ? '/github_repo_name' : process.env.BASE_PATH
 		},
 		adapter: adapter({
 			pages: 'docs',
