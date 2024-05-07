@@ -12,6 +12,7 @@
     <input type="number" bind:value={x}>
     <button on:click={()=>x++}>+</button>
     <h2>{x}<sup>2</sup> = {x2}</h2>
+    <input type="range" bind:value={x}>
 </div>
 <style>
     *, a {
@@ -22,5 +23,8 @@
         width: 80px;
         font-size: 20px;
         border: none;
+    }
+    input[type="range"] {
+        width: 300px;
     }
 </style>
